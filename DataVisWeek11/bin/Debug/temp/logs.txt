@@ -1,0 +1,82 @@
+Processed at: 11/20/2022 7:53:35 PM
+
+Request: get-by-state
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-by-state', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:17 PM
+
+Request: get-by-HP
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-by-HP', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:19 PM
+
+Request: get-HPMP
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-HPMP', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:21 PM
+
+Request: get-by-state
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-by-state', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:23 PM
+
+Request: get-by-HP
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-by-HP', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:24 PM
+
+Request: get-HPMP
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-HPMP', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:25 PM
+
+Request: get-HPMP
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-HPMP', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:26 PM
+
+Request: get-by-HP
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-by-HP', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:27 PM
+
+Request: get-HPMP
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-HPMP', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:28 PM
+
+Request: get-by-state
+Status: Method: GET, RequestUri: 'https://localhost:7222/Monster/get-by-state', Version: 1.1, Content: <null>, Headers:
+{
+  Accept: application/json
+}
+Code: OK
+Time: 11/20/2022 7:53:29 PM
+
