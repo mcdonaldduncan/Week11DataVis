@@ -76,7 +76,7 @@ namespace DataVisWeek11
 
 
                 var chartSeries = chart2.Series.Add("Range Frequency");
-                chartSeries.ChartType = SeriesChartType.Column;
+                chartSeries.ChartType = SeriesChartType.Pie;
                 chartSeries.IsValueShownAsLabel = true;
 
                 List<DataModel> results = service.GetRequest("get-by-HP").Result;
